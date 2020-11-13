@@ -1,5 +1,5 @@
 {
-  "name": "tfjs-customvision",
+  "name": "ia_cesi",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CourelC/IA_CESI.git"
+    "url": "git+https://github.com/CourelC/IA_Cesi.git"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/CourelC/IA_CESI.git"
+    "url": "https://github.com/CourelC/IA_Cesi.git"
   },
-  "homepage": "https://github.com/CourelC/IA_CESI.git#readme",
+  "homepage": "https://github.com/CourelC/IA_Cesi.git#readme",
   "dependencies": {
     "axios": "^0.21.0",
     "body-parser": "^1.19.0",
