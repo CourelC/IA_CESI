@@ -1,5 +1,3 @@
-# IA_Cesi
-
 # Notre projet IA CESI
 
 Notre projet fonctionne en NodeJS
