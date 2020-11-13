@@ -3,14 +3,15 @@
 # Notre projet IA CESI
 
 Notre projet fonctionne en NodeJS
-## Setup 
 
-Prepare the node environments:
+## Mise en place 
+
+Installer les modules:
 ```sh
 $ npm install
 ```
 
-Run the local web server script:
+Lancer le server:
 ```sh
 $ node server.js
 ```
